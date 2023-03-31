@@ -23,10 +23,10 @@ namespace BusinessLayer.Concrete
             _categoryDal = categoryDal;
         }
 
-        public CategoryManager(EfCategoryRepository efCategoryRepository)
-        {
-            this.efCategoryRepository = efCategoryRepository;
-        }
+        //public CategoryManager(EfCategoryRepository efCategoryRepository)
+        //{
+        //    this.efCategoryRepository = efCategoryRepository;
+        //}
 
         public CategoryManager(EfCommentRepository efCommentRepository)
         {
