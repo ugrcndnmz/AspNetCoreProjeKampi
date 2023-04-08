@@ -288,3 +288,7 @@ C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\System.C
 C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qh+EZoLK06EbRoOoED3661LwgrvFAjqaFnztZBnbpugXeS6N2YlVktnemq0gJiwNPVTAgIshIs70/hFdFK5+/A==",
+  "dgSpecHash": "P/YFxTwUEG6NgOGfgW8r2DxZ70GjVXh55v4ZhgQ/AxMXFP6EETiROiBx4kS4szD0ndZuLRPXPeBeljJSw1eBSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\EKarte\\Desktop\\Yeni klasör\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EKarte\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\EKarte\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\EKarte\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

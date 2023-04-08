@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Uu0CuGa3jeiKVgyUIzIDOSutDoNr1zxXlFfW9s5nA19NrPSnWLKUCeuCzXb8TxWorNot++2rsCEhMYCmj8shJg==",
+  "dgSpecHash": "n0ixGg3QbbRuY53oxdbyL3B9QdjnRrmsffgUnLj5Qv+zjuE5f/iO6l1PNMpvzqeroBhJFU4q1jlITycWK09vBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\EKarte\\Desktop\\Yeni klasör\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EKarte\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\EKarte\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\EKarte\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\EKarte\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\EKarte\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

@@ -20,7 +20,13 @@ namespace BusinessLayer.Concrete
 
 		public void BlogAdd(Blog blog)
 		{
-			throw new NotImplementedException();
+			if (blog == null)
+				throw new Exception("Blog boş bırakılamaz");
+
+			if (blog.BlogID > 0)
+				throw new Exception("Var olan blog tekrar eklenemez");
+
+			_blogDal.Insert(blog);
 		}
 
 		public void BlogDelete(Blog blog)
@@ -52,5 +58,10 @@ namespace BusinessLayer.Concrete
 		{
 			return _blogDal.GetListAll();
 		}
-	}
+
+		public List<Blog> GetBlogListByWriter(int id)
+		{
+			return _blogDal.GetListAll(x => x.WriterID == id);
+        }
+    }
 }
