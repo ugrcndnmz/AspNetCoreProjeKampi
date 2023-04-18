@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\EKarte\Desktop\Yeni klasör\CoreDemo\CoreDemo
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/EKarte/Desktop/Yeni klasör/CoreDemo/CoreDemo/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EKarte/Desktop/Yeni klasör/CoreDemo/CoreDemo/Views/About/SocialMediaAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU29jaWFsTWVkaWFBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/EKarte/Desktop/Yeni klasör/CoreDemo/CoreDemo/Views/Blog/BlogReadAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -33,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/EKarte/Desktop/Yeni klasör/CoreDemo/CoreDemo/Views/Comment/PartialAddComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EKarte/Desktop/Yeni klasör/CoreDemo/CoreDemo/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/EKarte/Desktop/Yeni klasör/CoreDemo/CoreDemo/Views/ErrorPage/Error1.cshtml]
